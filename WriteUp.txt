@@ -1,0 +1,11 @@
+1) Open browser
+2) Maximize it
+3) Navigate to application
+4) Enter chennai in the search box and hit enter
+5) Click on the Search icon and type 'pizza' in the Search box (parameterize this step by using Scenario Outline)
+6) Choose first option from Auto-Complete Box and hit enter 
+7) Click on 'Add' button to add the first item
+8) In the pop-up, keep the default items selected and click on 'ADD ITEM'
+9) Click on 'CHECKOUT' button
+10) Verify the text 'SECURE CHECKOUT' on the last page
+11) Close the browser
